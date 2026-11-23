@@ -5,7 +5,7 @@ On the home page the user will have 4 options of game to play with,
 User will have a Home page (U will like it), a counter, Random number generator which has two games a dice game (Dice animation on clicking roll) and random numbers generator which will generate three random numbers (Dice animation on clicking roll), Number guessing game which is composed of 4 difficulty levels and finally a Temperature conversion program. 
 Each one will have it's own page. I have made it using html, css and vanilla javascript.
 ## How the Page Looks?
-![Main Home Page](<./screenshots of website/newhomeforletsplaynum.png>)
+![Main Home Page](<./screenshots of website/Screenshot 2026-11-23 214134.png>)
 Main Homepage
 
 ![Counter](<./screenshots of website/counter.png>)
