@@ -17,7 +17,7 @@ body{
 }
 h1 {
     font-family:"Press Start 2P", cursive;
-    font-size: 1.5em;
+    font-size: 1.2em;
     margin-bottom: 0.5em;
 }
 p {
@@ -83,8 +83,8 @@ p {
     user-select: none;
 }
 .s1 {
-    top: 7.5%;
-    left: 22%;
+    top: 5%;
+    left: 28%;
     font-size: 95px;
 }
 .s2 {
@@ -111,8 +111,8 @@ p {
     left: 35%;
 }
 .s7 {
-    top: 18%;
-    left: 70%;
+    top: 38%;
+    left: 65%;
 }
 .s8 {
     top: 55%;
@@ -175,7 +175,7 @@ p {
     left:9%;
 }
 .s23 {
-    top: 22%;
+    top: 28%;
     left: 24%;
 }
 .s24 {
@@ -183,8 +183,8 @@ p {
     left: 3%;
 }
 .s25 {
-    top: 45%;
-    left: 10%;
+    top: 55%;
+    left: 20%;
 }
 .s26 {
     top: 26%;
@@ -192,11 +192,11 @@ p {
 }
 .s27 {
     top: 2%;
-    left: 80%;
+    left: 85%;
 }
 .s28 {
-    top: 1%;
-    left: 94%;
+    top: 60%;
+    left: 70%;
 }
 .s29 {
     top: 32%;
