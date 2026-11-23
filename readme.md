@@ -35,10 +35,10 @@ Temperature Convertor Page
 More levels of Number guess game are there
 
 ## Let's_Play_With_Numbers Link:-
-<https://lets-play-maths.vercel.app>
+<https://lets-play-maths-faisal-makercr.vercel.app/>
 
 ## Let's_Play_With_Numbers Github Repository Link:-
-<https://github.com/faisal-makercr/Let-s-Play-Maths.git>
+<https://github.com/faisal-makercr/Let-s-Play-With-Numbers.git>
 
 # Getting Started and installation
 ## Dependencies
