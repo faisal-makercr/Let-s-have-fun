@@ -1,6 +1,6 @@
-# Let's_Play_With_Numbers
-This is a fun numbers game(kinda) where a user can come to play different games and it's always better to play with numbers.
-## About Let's_Play_With_Numbers
+# Let's_Have_Fun
+This is a fun website where a user can come to do different things Like Counting, Rolling dice, generating numbers, guessing numbers and converting temperature.
+## About Let's_Have_Fun
 On the home page the user will have 4 options of game to play with, 
 User will have a Home page (U will like it), a counter, Random number generator which has two games a dice game (Dice animation on clicking roll) and random numbers generator which will generate three random numbers (Dice animation on clicking roll), Number guessing game which is composed of 4 difficulty levels and finally a Temperature conversion program. 
 Each one will have it's own page. I have made it using html, css and vanilla javascript.
@@ -34,10 +34,10 @@ Temperature Convertor Page
 
 More levels of Number guess game are there
 
-## Let's_Play_With_Numbers Link:-
-<https://lets-play-maths-faisal-makercr.vercel.app/>
+## Let's_Let's_Have_Fun Link:-
+<https://lets-have-fun1.vercel.app//>
 
-## Let's_Play_With_Numbers Github Repository Link:-
+## Let's_Have_Fun Github Repository Link:-
 <https://github.com/faisal-makercr/Let-s-Play-With-Numbers.git>
 
 # Getting Started and installation
